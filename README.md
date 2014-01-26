@@ -38,7 +38,7 @@ WordPress日本語版 3.4～3.5.1
 * 404.php
 * functions.php
 * screenshot.png
-* img/blog_top.jpg
+* img/headerimg.jpg
 
 
 ##当バージョンでの変更箇所（XHTML版：mypace custom 1.7）
